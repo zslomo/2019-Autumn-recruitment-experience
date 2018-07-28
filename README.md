@@ -1,1 +1,5 @@
-# 2019-Autumn-recruitment-experience
+# 2019年秋招计算机类面经
+
+本repo会实时更新我认识的各位大佬的面试经验，我只做一个汇总，希望在秋招的路上能帮到大家
+
+## FIghting！！！
