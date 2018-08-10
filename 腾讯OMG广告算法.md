@@ -12,6 +12,7 @@
 - keras怎么复现复杂结构
     - 这个问题是因为我说用keras他觉得keras很难触及底层结构，我说可以继承layer类自己写
 - 优化方法
+    - 特别的问了一个如果只有不用minibatch怎么训练
 - 编程题：
     - 求数组中和为target的两个数
     - 实现一个hashmap，包含put get delete方法 
