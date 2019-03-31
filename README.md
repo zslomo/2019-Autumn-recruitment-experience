@@ -1,4 +1,5 @@
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 # 2019年秋招计算机类面经
 本菜鸡是上海东北某高校的计算机硕士，18年初自学机器学习，秋招之前在蚂蚁金服花呗实习，做营销推荐。
 
